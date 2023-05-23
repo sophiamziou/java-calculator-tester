@@ -1,0 +1,124 @@
+-------------------------------------------------------------------------------
+Test set: org.java.tester.CalculatorTest
+-------------------------------------------------------------------------------
+Tests run: 80, Failures: 30, Errors: 0, Skipped: 40, Time elapsed: 0.283 s <<< FAILURE! - in org.java.tester.CalculatorTest
+getMulTest[1]  Time elapsed: 0.043 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Moltiplicazione tra float ==> expected: <1.6666666> but was: <15.0>
+	at org.java.tester.CalculatorTest.getMulTest(CalculatorTest.java:97)
+
+getMulTest[2]  Time elapsed: 0.002 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Moltiplicazione tra float ==> expected: <1.6666666> but was: <15.0>
+	at org.java.tester.CalculatorTest.getMulTest(CalculatorTest.java:97)
+
+getMulTest[3]  Time elapsed: 0.003 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Moltiplicazione tra float ==> expected: <1.6666666> but was: <15.0>
+	at org.java.tester.CalculatorTest.getMulTest(CalculatorTest.java:97)
+
+getMulTest[4]  Time elapsed: 0.002 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Moltiplicazione tra float ==> expected: <1.6666666> but was: <15.0>
+	at org.java.tester.CalculatorTest.getMulTest(CalculatorTest.java:97)
+
+getMulTest[5]  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Moltiplicazione tra float ==> expected: <1.6666666> but was: <15.0>
+	at org.java.tester.CalculatorTest.getMulTest(CalculatorTest.java:97)
+
+getMulTest[6]  Time elapsed: 0.002 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Moltiplicazione tra float ==> expected: <1.6666666> but was: <15.0>
+	at org.java.tester.CalculatorTest.getMulTest(CalculatorTest.java:97)
+
+getMulTest[7]  Time elapsed: 0.002 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Moltiplicazione tra float ==> expected: <1.6666666> but was: <15.0>
+	at org.java.tester.CalculatorTest.getMulTest(CalculatorTest.java:97)
+
+getMulTest[8]  Time elapsed: 0.003 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Moltiplicazione tra float ==> expected: <1.6666666> but was: <15.0>
+	at org.java.tester.CalculatorTest.getMulTest(CalculatorTest.java:97)
+
+getMulTest[9]  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Moltiplicazione tra float ==> expected: <1.6666666> but was: <15.0>
+	at org.java.tester.CalculatorTest.getMulTest(CalculatorTest.java:97)
+
+getMulTest[10]  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Moltiplicazione tra float ==> expected: <1.6666666> but was: <15.0>
+	at org.java.tester.CalculatorTest.getMulTest(CalculatorTest.java:97)
+
+getSubTest[1]  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Sottrazione tra float ==> expected: <1.6666666> but was: <2.0>
+	at org.java.tester.CalculatorTest.getSubTest(CalculatorTest.java:52)
+
+getSubTest[2]  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Sottrazione tra float ==> expected: <1.6666666> but was: <2.0>
+	at org.java.tester.CalculatorTest.getSubTest(CalculatorTest.java:52)
+
+getSubTest[3]  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Sottrazione tra float ==> expected: <1.6666666> but was: <2.0>
+	at org.java.tester.CalculatorTest.getSubTest(CalculatorTest.java:52)
+
+getSubTest[4]  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Sottrazione tra float ==> expected: <1.6666666> but was: <2.0>
+	at org.java.tester.CalculatorTest.getSubTest(CalculatorTest.java:52)
+
+getSubTest[5]  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Sottrazione tra float ==> expected: <1.6666666> but was: <2.0>
+	at org.java.tester.CalculatorTest.getSubTest(CalculatorTest.java:52)
+
+getSubTest[6]  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Sottrazione tra float ==> expected: <1.6666666> but was: <2.0>
+	at org.java.tester.CalculatorTest.getSubTest(CalculatorTest.java:52)
+
+getSubTest[7]  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Sottrazione tra float ==> expected: <1.6666666> but was: <2.0>
+	at org.java.tester.CalculatorTest.getSubTest(CalculatorTest.java:52)
+
+getSubTest[8]  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Sottrazione tra float ==> expected: <1.6666666> but was: <2.0>
+	at org.java.tester.CalculatorTest.getSubTest(CalculatorTest.java:52)
+
+getSubTest[9]  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Sottrazione tra float ==> expected: <1.6666666> but was: <2.0>
+	at org.java.tester.CalculatorTest.getSubTest(CalculatorTest.java:52)
+
+getSubTest[10]  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Sottrazione tra float ==> expected: <1.6666666> but was: <2.0>
+	at org.java.tester.CalculatorTest.getSubTest(CalculatorTest.java:52)
+
+getAddTest[1]  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Somma tra float ==> expected: <1.6666666> but was: <8.0>
+	at org.java.tester.CalculatorTest.getAddTest(CalculatorTest.java:30)
+
+getAddTest[2]  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Somma tra float ==> expected: <1.6666666> but was: <8.0>
+	at org.java.tester.CalculatorTest.getAddTest(CalculatorTest.java:30)
+
+getAddTest[3]  Time elapsed: 0 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Somma tra float ==> expected: <1.6666666> but was: <8.0>
+	at org.java.tester.CalculatorTest.getAddTest(CalculatorTest.java:30)
+
+getAddTest[4]  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Somma tra float ==> expected: <1.6666666> but was: <8.0>
+	at org.java.tester.CalculatorTest.getAddTest(CalculatorTest.java:30)
+
+getAddTest[5]  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Somma tra float ==> expected: <1.6666666> but was: <8.0>
+	at org.java.tester.CalculatorTest.getAddTest(CalculatorTest.java:30)
+
+getAddTest[6]  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Somma tra float ==> expected: <1.6666666> but was: <8.0>
+	at org.java.tester.CalculatorTest.getAddTest(CalculatorTest.java:30)
+
+getAddTest[7]  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Somma tra float ==> expected: <1.6666666> but was: <8.0>
+	at org.java.tester.CalculatorTest.getAddTest(CalculatorTest.java:30)
+
+getAddTest[8]  Time elapsed: 0.002 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Somma tra float ==> expected: <1.6666666> but was: <8.0>
+	at org.java.tester.CalculatorTest.getAddTest(CalculatorTest.java:30)
+
+getAddTest[9]  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Somma tra float ==> expected: <1.6666666> but was: <8.0>
+	at org.java.tester.CalculatorTest.getAddTest(CalculatorTest.java:30)
+
+getAddTest[10]  Time elapsed: 0.001 s  <<< FAILURE!
+org.opentest4j.AssertionFailedError: Somma tra float ==> expected: <1.6666666> but was: <8.0>
+	at org.java.tester.CalculatorTest.getAddTest(CalculatorTest.java:30)
+
